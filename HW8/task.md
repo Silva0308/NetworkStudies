@@ -12,9 +12,11 @@
 ### Solution:
 
 1. Предоставить скриншоты открытых разных сайтов по одному доменному имени. <br>
-    ![HTTP_HTTPS.jpg](img%2FHTTP_HTTPS.jpg) <br>
+    ![HTTP.png](img/http.png) <br>
+    ![HTTPS.png](img/https.png) <br>
 2. Предоставить скриншот таблицы NAT трансляций с Router3. <br>
-    ![Router_3_NAT.jpg](img%2FRouter_3_NAT.jpg) <br>
+    ![Router_3_NAT.jpg](img/route_3.png) <br>
 3. Предоставить скриншот таблицы маршрутизации с Router0. <br>
-    ![Router0_route.jpg](img%2FRouter0_route.jpg) <br>
-
+    ![Router0_route.jpg](img/route_0.png) <br>
+Настроенная сеть: <br>
+![net.png](img/net.png) <br>
